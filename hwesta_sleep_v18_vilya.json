@@ -538,7 +538,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
+                    "next_question_id": "q_thermal_sensation_last_night"
                 },
                 {
                     "text": "Pain / Illness",
@@ -546,7 +546,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
+                    "next_question_id": "q_thermal_sensation_last_night"
                 },
                 {
                     "text": "Nightmare / Vivid dream",
@@ -554,7 +554,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
+                    "next_question_id": "q_thermal_sensation_last_night"
                 },
                 {
                     "text": "Partner disturbance",
@@ -562,7 +562,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
+                    "next_question_id": "q_thermal_sensation_last_night"
                 },
                 {
                     "text": "I forgot / Not sure",
@@ -570,7 +570,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
+                    "next_question_id": "q_thermal_sensation_last_night"
                 },
                 {
                     "text": "Other",
