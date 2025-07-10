@@ -426,7 +426,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -774,7 +774,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -1084,7 +1084,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -1394,7 +1394,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -1712,7 +1712,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -2030,7 +2030,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -2348,7 +2348,7 @@
                 },
                 {
                     "text": "Household activity / movement",
-                    "icon": "preson_walking_3",
+                    "icon": "person_walking_3",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
