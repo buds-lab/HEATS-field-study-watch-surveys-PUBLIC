@@ -1487,16 +1487,8 @@
                     "next_question_id": "q_sleep_disruption_3_reason_2"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disruption_3_reason_2"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -1805,16 +1797,8 @@
                     "next_question_id": "q_sleep_disruption_3_reason_3"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disruption_3_reason_3"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -2123,16 +2107,8 @@
                     "next_question_id": "q_settings_changed"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
