@@ -557,16 +557,8 @@
                     "next_question_id": "q_settings_changed"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -875,16 +867,8 @@
                     "next_question_id": "q_sleep_disruption_2_reason_2"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disruption_2_reason_2"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -1193,16 +1177,8 @@
                     "next_question_id": "q_settings_changed"
                 },
                 {
-                    "text": "Negative thoughts",
-                    "icon": "person_head_thinking",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_settings_changed"
-                },
-                {
-                    "text": "Excitement",
-                    "icon": "emoticon_happy",
+                    "text": "Partner disturbance",
+                    "icon": "person_noise",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
@@ -3265,14 +3241,6 @@
                     "next_question_id": "q_substances"
                 },
                 {
-                    "text": "Loss of taste or smell",
-                    "icon": "illness_taste_smell_loss",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_substances"
-                },
-                {
                     "text": "Nausea, vomiting, or diarrhea",
                     "icon": "illness_vomiting",
                     "icon_background_color": "#F1A62E",
@@ -3751,7 +3719,7 @@
             ]
         },
         {
-            "question": "If using an air purifier, what settings for sleep?",
+            "question": "If using an air purifier tonight, what settings for sleep?",
             "question_id": "q_setting_air_purifier",
             "response_options": [
                 {
