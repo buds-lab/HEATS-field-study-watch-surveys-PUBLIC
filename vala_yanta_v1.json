@@ -103,28 +103,6 @@
             ]
         },
         {
-            "question": "Difficulties falling asleep last night?",
-            "question_id": "q_falling_asleep_disturbance",
-            "response_options": [
-                {
-                    "text": "No",
-                    "icon": "person_bed_sleep",
-                    "icon_background_color": "#F1A62E",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disrupted_beeper"
-                },
-                {
-                    "text": "Yes",
-                    "icon": "person_bed_sleep_disrupted",
-                    "icon_background_color": "#000000",
-                    "use_sf_symbols": false,
-                    "sf_symbols_color": "#000000",
-                    "next_question_id": "q_falling_asleep_disturbance_thermal"
-                }
-            ]
-        },
-        {
             "question": "Difficulties falling asleep last night due to too hot/cold?",
             "question_id": "q_falling_asleep_disturbance_thermal",
             "response_options": [
@@ -134,7 +112,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disrupted_beeper"
+                    "next_question_id": "q_sleep_disturbance"
                 },
                 {
                     "text": "Too hot",
@@ -142,7 +120,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disrupted_beeper"
+                    "next_question_id": "q_sleep_disturbance"
                 },
                 {
                     "text": "Too cold",
@@ -150,7 +128,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleep_disrupted_beeper"
+                    "next_question_id": "q_sleep_disturbance"
                 },
                 {
                     "text": "Hot & Cold",
@@ -158,12 +136,36 @@
                     "icon_background_color": "#000000",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleep_disturbance"
+                }
+            ]
+        },
+        
+        {
+            "question": "Was your sleep last night disrupted before wake time?",
+            "question_id": "q_sleep_disturbance",
+            "response_options": [
+                {
+                    "text": "No",
+                    "icon": "person_bed_sleep",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_thermal_sensation_last_night"
+                },
+                {
+                    "text": "Yes",
+                    "icon": "person_bed_sleep_disrupted",
+                    "icon_background_color": "#000000",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
                     "next_question_id": "q_sleep_disrupted_beeper"
                 }
             ]
         },
+        
         {
-            "question": "Was your sleep last night disrupted due to the beeper sound from AC",
+            "question": "Was your sleep last night disrupted due to the beeper sound from AC?",
             "question_id": "q_sleep_disrupted_beeper",
             "response_options": [
                 {
@@ -176,7 +178,7 @@
                 },
                 {
                     "text": "Yes",
-                    "icon": "person_bed_sleep_disrupted",
+                    "icon": "sound_waves",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
