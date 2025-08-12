@@ -187,7 +187,7 @@
             ]
         },
         {
-            "question": "Was your sleep last night disrupted due to too hot/cold before wake time?",
+            "question": "Was your sleep last night disrupted due to too hot/cold?",
             "question_id": "q_sleep_disrupted_thermal",
             "response_options": [
                 {
