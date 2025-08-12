@@ -103,6 +103,28 @@
             ]
         },
         {
+            "question": "Difficulties falling asleep last night?",
+            "question_id": "q_falling_asleep_disturbance",
+            "response_options": [
+                {
+                    "text": "No",
+                    "icon": "person_bed_sleep",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_falling_asleep_disturbance_thermal"
+                },
+                {
+                    "text": "Yes",
+                    "icon": "flame_snowflake_diagonal",
+                    "icon_background_color": "#000000",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_falling_asleep_disturbance_thermal"
+                }
+            ]
+        },
+        {
             "question": "Difficulties falling asleep last night due to too hot/cold?",
             "question_id": "q_falling_asleep_disturbance_thermal",
             "response_options": [
