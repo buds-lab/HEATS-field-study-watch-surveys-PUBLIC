@@ -116,7 +116,7 @@
                 },
                 {
                     "text": "Yes",
-                    "icon": "flame_snowflake_diagonal",
+                    "icon": "person_bed_sleep",
                     "icon_background_color": "#000000",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
