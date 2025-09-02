@@ -389,7 +389,7 @@
                     "next_question_id": ""
                 },
                 {
-                    "text": "Neither alert or sleepy",
+                    "text": "Neither alert nor sleepy",
                     "icon": "emoticon_neutral",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
@@ -565,7 +565,7 @@
                     "next_question_id": ""
                 },
                 {
-                    "text": "Neither alert or sleepy",
+                    "text": "Neither alert nor sleepy",
                     "icon": "emoticon_neutral",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
