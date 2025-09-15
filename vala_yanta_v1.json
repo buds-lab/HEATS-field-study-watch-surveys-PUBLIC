@@ -516,7 +516,7 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleepiness_evening"
+                    "next_question_id": "q_wake_hour"
                 },
                 {
                     "text": "No Change",
@@ -524,11 +524,151 @@
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
-                    "next_question_id": "q_sleepiness_evening"
+                    "next_question_id": "q_wake_hour"
                 },
                 {
                     "text": "Warmer",
                     "icon": "flame",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_hour"
+                }
+            ]
+        },
+        {
+            "question": "What hour do you plan to wake up tomorrow?",
+            "question_id": "q_wake_hour",
+            "response_options": [
+                {
+                    "text": "5",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "6",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "7",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "8",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "9",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "10",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "11",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "12",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "13",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                },
+                {
+                    "text": "14",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_wake_minute"
+                }
+            ]
+        },
+        {
+            "question": "What minute do you plan to wake up tomorrow?",
+            "question_id": "q_wake_minute",
+            "response_options": [
+                {
+                    "text": "00",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleepiness_evening"
+                },
+                {
+                    "text": "10",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleepiness_evening"
+                },
+                {
+                    "text": "20",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleepiness_evening"
+                },
+                {
+                    "text": "30",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleepiness_evening"
+                },
+                {
+                    "text": "40",
+                    "icon": "clock",
+                    "icon_background_color": "#F1A62E",
+                    "use_sf_symbols": false,
+                    "sf_symbols_color": "#000000",
+                    "next_question_id": "q_sleepiness_evening"
+                },
+                {
+                    "text": "50",
+                    "icon": "clock",
                     "icon_background_color": "#F1A62E",
                     "use_sf_symbols": false,
                     "sf_symbols_color": "#000000",
