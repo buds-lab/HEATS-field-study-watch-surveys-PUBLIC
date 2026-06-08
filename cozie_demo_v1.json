@@ -3,8 +3,8 @@
     "survey_id": "cozie_demo_v1",
     "survey": [
         {
-            "question": "Last night, would you have preferred to be..",
-            "question_id": "q_thermal_preference_last_night",
+            "question": "Would you prefer to be..",
+            "question_id": "q_thermal_preference",
             "response_options": [
                 {
                     "text": "Cooler",
